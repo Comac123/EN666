@@ -1,0 +1,1 @@
+http://docs.jboss.org/hibernate/orm/3.5/reference/en/html/example-mappings.html
